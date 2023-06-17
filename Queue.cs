@@ -6,16 +6,18 @@ using System.Threading.Tasks;
 
 namespace DND9_StacksAndQueue
 {
-    internal class Stack<T>
+    internal class Queue<T>
     {
         Node<T> head;
+        Node<T> tail;
 
-        public void Push(T data)
+        public void Enqueue(T data)
         {
             Node<T> newNode = new Node<T>(data);
             if (head == null)
             {
                 head = newNode;
+                tail = newNode;
             }
             else
             {
@@ -24,24 +26,43 @@ namespace DND9_StacksAndQueue
             }
         }
 
-        public T Pop()
+        public T Dequeue()
         {
             if (head == null)
             {
-                Console.WriteLine("The Stack is empty!!!");
+                Console.WriteLine("The Queue is empty!!!");
                 return default(T);
             }
-            T popData = head.data;
-            head = head.next;
+            T popData = tail.data;
+            if (head == tail)
+            {
+                head = null;
+                return popData;
+            }
+            Node<T> temp = head;
+            while (temp.next != tail)
+                temp = temp.next;
+            temp.next = null;
+            tail = temp;
             return popData;
         }
 
-        public T Top()
+        public T Peek()
         {
             return head.data;
         }
 
-        public bool IsEmpty()
+        public T Front()
+        {
+            return head.data;
+        }
+
+        public T Rear()
+        {
+            return tail.data;
+        }
+
+        public bool IsNull()
         {
             return head == null;
         }
