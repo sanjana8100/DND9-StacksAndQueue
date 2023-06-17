@@ -1,0 +1,15 @@
+C:\Users\INS 5570\source\repos\DND9-StacksAndQueue\DND9-StacksAndQueue\bin\Debug\net6.0\DND9-StacksAndQueue.exe
+C:\Users\INS 5570\source\repos\DND9-StacksAndQueue\DND9-StacksAndQueue\bin\Debug\net6.0\DND9-StacksAndQueue.deps.json
+C:\Users\INS 5570\source\repos\DND9-StacksAndQueue\DND9-StacksAndQueue\bin\Debug\net6.0\DND9-StacksAndQueue.runtimeconfig.json
+C:\Users\INS 5570\source\repos\DND9-StacksAndQueue\DND9-StacksAndQueue\bin\Debug\net6.0\DND9-StacksAndQueue.dll
+C:\Users\INS 5570\source\repos\DND9-StacksAndQueue\DND9-StacksAndQueue\bin\Debug\net6.0\DND9-StacksAndQueue.pdb
+C:\Users\INS 5570\source\repos\DND9-StacksAndQueue\DND9-StacksAndQueue\obj\Debug\net6.0\DND9-StacksAndQueue.csproj.AssemblyReference.cache
+C:\Users\INS 5570\source\repos\DND9-StacksAndQueue\DND9-StacksAndQueue\obj\Debug\net6.0\DND9-StacksAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INS 5570\source\repos\DND9-StacksAndQueue\DND9-StacksAndQueue\obj\Debug\net6.0\DND9-StacksAndQueue.AssemblyInfoInputs.cache
+C:\Users\INS 5570\source\repos\DND9-StacksAndQueue\DND9-StacksAndQueue\obj\Debug\net6.0\DND9-StacksAndQueue.AssemblyInfo.cs
+C:\Users\INS 5570\source\repos\DND9-StacksAndQueue\DND9-StacksAndQueue\obj\Debug\net6.0\DND9-StacksAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\INS 5570\source\repos\DND9-StacksAndQueue\DND9-StacksAndQueue\obj\Debug\net6.0\DND9-StacksAndQueue.dll
+C:\Users\INS 5570\source\repos\DND9-StacksAndQueue\DND9-StacksAndQueue\obj\Debug\net6.0\refint\DND9-StacksAndQueue.dll
+C:\Users\INS 5570\source\repos\DND9-StacksAndQueue\DND9-StacksAndQueue\obj\Debug\net6.0\DND9-StacksAndQueue.pdb
+C:\Users\INS 5570\source\repos\DND9-StacksAndQueue\DND9-StacksAndQueue\obj\Debug\net6.0\DND9-StacksAndQueue.genruntimeconfig.cache
+C:\Users\INS 5570\source\repos\DND9-StacksAndQueue\DND9-StacksAndQueue\obj\Debug\net6.0\ref\DND9-StacksAndQueue.dll

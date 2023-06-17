@@ -4,7 +4,18 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Stack<int> stack = new Stack<int>();
+
+            stack.Push(10);
+            stack.Push(20);
+            stack.Push(30);
+            stack.Display();
+
+            stack.Pop();
+            stack.Display();
+
+            Console.WriteLine(stack.IsEmpty());
+            Console.WriteLine(stack.Size());
         }
     }
 }
